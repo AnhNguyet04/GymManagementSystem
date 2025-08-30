@@ -1,0 +1,81 @@
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\TransferObject.dll
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\TransferObject.pdb
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.GymManagemet.resources
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\DataLayer.dll
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\TransferObject.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\TransferObject.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.GymManagemet.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Lophoc.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Hocvien.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Nhanvien.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Thietbi.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.ChonHocVien.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.Thanhtoan.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.PhuongthucTT.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.FormThemBaoTri.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.QRThanhToan.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.FormMembership.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\RestSharp.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Buffers.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Memory.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Text.Json.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\RestSharp.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Buffers.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Memory.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Text.Json.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.ValueTuple.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.QRCODE.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.BaoCaoThongKe.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\obj\Debug\PresentationLayer.FormThongKe.resources
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\EPPlus.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\EPPlus.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\PresentationLayer\bin\Debug\System.Security.Cryptography.Xml.xml

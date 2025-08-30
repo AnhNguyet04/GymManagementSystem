@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|d:\\t\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\gymmanagement\\datalayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\presentationlayer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\presentationlayer\\gymmanagemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\gymmanagemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\presentationlayer\\gymmanagemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\gymmanagemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|d:\\t\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\gymmanagement\\presentationlayer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\DataLayer\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DataProvider.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\DataLayer\\DataProvider.cs*",
+              "RelativeToolTip": "DataLayer\\DataProvider.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:32:57.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\Login.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Login.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\Login.cs",
+              "RelativeToolTip": "PresentationLayer\\Login.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswFwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:48:01.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\Login.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Login.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\Login.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:47:49.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:18:35.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GymManagemet.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\GymManagemet.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\GymManagemet.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\GymManagemet.cs",
+              "RelativeToolTip": "PresentationLayer\\GymManagemet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:47:02.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GymManagemet.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\GymManagemet.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\GymManagemet.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u m\u00F4n h\u1ECDc\\L\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\GymManagement\\PresentationLayer\\GymManagemet.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\GymManagemet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:40:55.428Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1018 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\qrthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\qrthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\baotridl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\baotridl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\baotribl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\baotribl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\pc lenovo\\downloads\\ltcsdl\\gymmanagement\\gymmanagement\\presentationlayer\\qrthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\qrthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\pc lenovo\\downloads\\ltcsdl\\gymmanagement\\gymmanagement\\presentationlayer\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\trainerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\trainerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\trainerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\trainerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\pc lenovo\\downloads\\ltcsdl\\gymmanagement\\gymmanagement\\presentationlayer\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\nhanviendl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\nhanviendl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|Solution Items{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|Solution Items{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|solutionrelative:Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\classesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\classesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\hocviendl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\hocviendl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\pc lenovo\\downloads\\ltcsdl\\gymmanagement\\gymmanagement\\presentationlayer\\formmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\transferobject\\packagetypeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\packagetypeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\pc lenovo\\downloads\\ltcsdl\\gymmanagement\\gymmanagement\\presentationlayer\\formmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\pc lenovo\\downloads\\ltcsdl\\gymmanagement\\gymmanagement\\presentationlayer\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\paymentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\paymentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\gymmanagemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\gymmanagemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\hocvienbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\hocvienbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\gymmanagemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\gymmanagemet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\transferobject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\transferobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\helpers\\datagridviewstylehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\helpers\\datagridviewstylehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\transferobject\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\membershipdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\membershipdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\transferobject\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\transferobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\transferobject\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C7D3B2-A306-4607-BC1F-F158FE23FCCC}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\studentsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\studentsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\thongkebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\thongkebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\thietbidl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\thietbidl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\thietbibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\thietbibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\formthembaotri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formthembaotri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\datalayer\\categorydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E553E5-B4F4-4A8E-B885-10166E0F15BE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\categorydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\nhanvienbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\nhanvienbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\phuongthuctt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\phuongthuctt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\presentationlayer\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AB862-A0E9-4722-A100-2F89D0207DC1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\businesslayer\\membershipbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5900BE-D25D-4E9A-BBA8-B5C7F008379F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\membershipbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|Solution Items{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|Solution Items{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|solutionrelative:Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|Solution Items{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|Solution Items{37577F5B-E8D5-4AA9-9DF2-A795045428CF}|solutionrelative:Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thanhtoan.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Thanhtoan.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Thanhtoan.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Thanhtoan.cs",
+              "RelativeToolTip": "PresentationLayer\\Thanhtoan.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAADwv7UAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:26:48.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thietbi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Thietbi.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Thietbi.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Thietbi.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Thietbi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:08:19.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thietbi.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Thietbi.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Thietbi.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Thietbi.cs",
+              "RelativeToolTip": "PresentationLayer\\Thietbi.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAwwJMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:25:11.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaoTriBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\BaoTriBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BaoTriBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\BaoTriBL.cs",
+              "RelativeToolTip": "BusinessLayer\\BaoTriBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:08:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaoTriDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\BaoTriDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\BaoTriDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\BaoTriDL.cs",
+              "RelativeToolTip": "DataLayer\\BaoTriDL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:04:16.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QRThanhToan.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\QRThanhToan.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\QRThanhToan.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\QRThanhToan.cs",
+              "RelativeToolTip": "PresentationLayer\\QRThanhToan.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAxwCAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:26:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thanhtoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Thanhtoan.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Thanhtoan.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Thanhtoan.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Thanhtoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:11:04.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QRThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\QRThanhToan.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\QRThanhToan.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\QRThanhToan.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\QRThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:49:10.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lophoc.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Lophoc.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Lophoc.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Lophoc.cs",
+              "RelativeToolTip": "PresentationLayer\\Lophoc.cs",
+              "ViewState": "AQIAAH0CAAAAAAAAAAAQwGICAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:04:32.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lophoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Lophoc.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Lophoc.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Lophoc.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Lophoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:32:35.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrainerDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\TrainerDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\TrainerDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\TrainerDL.cs",
+              "RelativeToolTip": "DataLayer\\TrainerDL.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA1wE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:53:54.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Script.sql ",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\Script.sql",
+              "RelativeDocumentMoniker": "Script.sql",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\Script.sql",
+              "RelativeToolTip": "Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-03T11:20:28.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaoCaoThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\BaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\BaoCaoThongKe.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\BaoCaoThongKe.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\BaoCaoThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:26:09.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaoCaoThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\BaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\BaoCaoThongKe.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\BaoCaoThongKe.cs",
+              "RelativeToolTip": "PresentationLayer\\BaoCaoThongKe.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwE0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:16:40.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrainerBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\TrainerBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\TrainerBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\TrainerBL.cs",
+              "RelativeToolTip": "BusinessLayer\\TrainerBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:11:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GymManagemet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\GymManagemet.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\GymManagemet.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\GymManagemet.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\GymManagemet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:16:31.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormThongKe.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:14:04.501Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Login.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Login.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Login.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:42:56.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClassesDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\ClassesDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ClassesDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\ClassesDL.cs",
+              "RelativeToolTip": "DataLayer\\ClassesDL.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAQwFsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:32:12.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Nhanvien.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Nhanvien.cs",
+              "RelativeToolTip": "PresentationLayer\\Nhanvien.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAIwLcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:17:02.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NhanVienDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\NhanVienDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\NhanVienDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\NhanVienDL.cs",
+              "RelativeToolTip": "DataLayer\\NhanVienDL.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwHQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:23:18.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormMembership.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormMembership.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormMembership.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormMembership.cs",
+              "RelativeToolTip": "PresentationLayer\\FormMembership.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:51:45.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HocVienDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\HocVienDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\HocVienDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\HocVienDL.cs",
+              "RelativeToolTip": "DataLayer\\HocVienDL.cs",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAIwGQBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:59:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\ApiRequest.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\ApiRequest.cs",
+              "RelativeToolTip": "PresentationLayer\\ApiRequest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:47:00.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Bank.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Bank.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Bank.cs",
+              "RelativeToolTip": "PresentationLayer\\Bank.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:46:07.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PackageTypeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\PackageTypeInfo.cs",
+              "RelativeDocumentMoniker": "TransferObject\\PackageTypeInfo.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\PackageTypeInfo.cs",
+              "RelativeToolTip": "TransferObject\\PackageTypeInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:50:54.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormMembership.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormMembership.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormMembership.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormMembership.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormMembership.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:50:44.696Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QRCODE.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\QRCODE.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\QRCODE.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\QRCODE.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\QRCODE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:49:12.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Hocvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Hocvien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Hocvien.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Hocvien.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Hocvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:03:58.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\DataProvider.cs",
+              "RelativeToolTip": "DataLayer\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:19:10.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\CategoryBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\CategoryBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\CategoryBL.cs",
+              "RelativeToolTip": "BusinessLayer\\CategoryBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:37:34.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormThongKe.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormThongKe.cs",
+              "RelativeToolTip": "PresentationLayer\\FormThongKe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:14:09.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\PaymentDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\PaymentDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\PaymentDL.cs",
+              "RelativeToolTip": "DataLayer\\PaymentDL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wFQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:56:06.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HocVienBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\HocVienBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\HocVienBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\HocVienBL.cs",
+              "RelativeToolTip": "BusinessLayer\\HocVienBL.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA2wHQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:12:37.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Hocvien.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Hocvien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Hocvien.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Hocvien.cs",
+              "RelativeToolTip": "PresentationLayer\\Hocvien.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAEwGgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:21:52.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GymManagemet.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\GymManagemet.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\GymManagemet.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\GymManagemet.cs",
+              "RelativeToolTip": "PresentationLayer\\GymManagemet.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAnwGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:59:12.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvzIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:21:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Account.cs",
+              "RelativeDocumentMoniker": "TransferObject\\Account.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Account.cs",
+              "RelativeToolTip": "TransferObject\\Account.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:10:11.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\LoginDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LoginDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\LoginDL.cs",
+              "RelativeToolTip": "DataLayer\\LoginDL.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:44:31.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\UserSession.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UserSession.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\UserSession.cs",
+              "RelativeToolTip": "PresentationLayer\\UserSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:30:44.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\User.cs",
+              "RelativeDocumentMoniker": "TransferObject\\User.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\User.cs",
+              "RelativeToolTip": "TransferObject\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:26:55.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Nhanvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Nhanvien.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Nhanvien.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:07:49.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Membership.cs",
+              "RelativeDocumentMoniker": "TransferObject\\Membership.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Membership.cs",
+              "RelativeToolTip": "TransferObject\\Membership.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:11:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MembershipDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\MembershipDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\MembershipDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\MembershipDL.cs",
+              "RelativeToolTip": "DataLayer\\MembershipDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:12:30.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DataGridViewStyleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Helpers\\DataGridViewStyleHelper.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Helpers\\DataGridViewStyleHelper.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\Helpers\\DataGridViewStyleHelper.cs",
+              "RelativeToolTip": "PresentationLayer\\Helpers\\DataGridViewStyleHelper.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAADwv1IAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:36:02.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Payment.cs",
+              "RelativeDocumentMoniker": "TransferObject\\Payment.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Payment.cs",
+              "RelativeToolTip": "TransferObject\\Payment.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:40:15.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Category.cs",
+              "RelativeDocumentMoniker": "TransferObject\\Category.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Category.cs",
+              "RelativeToolTip": "TransferObject\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:17:11.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Students.cs",
+              "RelativeDocumentMoniker": "TransferObject\\Students.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\TransferObject\\Students.cs",
+              "RelativeToolTip": "TransferObject\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:20:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StudentsBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\StudentsBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\StudentsBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\StudentsBL.cs",
+              "RelativeToolTip": "BusinessLayer\\StudentsBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:54:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ThietBiDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\ThietBiDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ThietBiDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\ThietBiDL.cs",
+              "RelativeToolTip": "DataLayer\\ThietBiDL.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAIkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:25:48.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ThongKeBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\ThongKeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ThongKeBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\ThongKeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\ThongKeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:38:52.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ThietBiBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\ThietBiBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ThietBiBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\ThietBiBL.cs",
+              "RelativeToolTip": "BusinessLayer\\ThietBiBL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:32:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategoryDL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\CategoryDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\CategoryDL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\DataLayer\\CategoryDL.cs",
+              "RelativeToolTip": "DataLayer\\CategoryDL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:27:38.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormThemBaoTri.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormThemBaoTri.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormThemBaoTri.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\FormThemBaoTri.cs",
+              "RelativeToolTip": "PresentationLayer\\FormThemBaoTri.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAowGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:04:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "NhanVienBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\NhanVienBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\NhanVienBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\NhanVienBL.cs",
+              "RelativeToolTip": "BusinessLayer\\NhanVienBL.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:44:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "QRCODE.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\QRCODE.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\QRCODE.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\QRCODE.cs",
+              "RelativeToolTip": "PresentationLayer\\QRCODE.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:04:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PhuongthucTT.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\PhuongthucTT.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\PhuongthucTT.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\PresentationLayer\\PhuongthucTT.cs",
+              "RelativeToolTip": "PresentationLayer\\PhuongthucTT.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwEsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:13:44.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoginBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\LoginBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\LoginBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\LoginBL.cs",
+              "RelativeToolTip": "BusinessLayer\\LoginBL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:19:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MembershipBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\MembershipBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\MembershipBL.cs",
+              "ToolTip": "C:\\Users\\PC LENOVO\\Downloads\\LTCSDL\\GymManagement\\GymManagement\\BusinessLayer\\MembershipBL.cs",
+              "RelativeToolTip": "BusinessLayer\\MembershipBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:15:53.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

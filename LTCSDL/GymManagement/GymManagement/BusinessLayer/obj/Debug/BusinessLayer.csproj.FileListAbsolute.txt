@@ -1,0 +1,14 @@
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\bin\Debug\BusinessLayer.dll
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\bin\Debug\BusinessLayer.pdb
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\bin\Debug\BusinessLayer.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb

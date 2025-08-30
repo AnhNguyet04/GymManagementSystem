@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TransferObject
+{
+    public class Gym
+    {
+        public int GymId { get; set; }
+        public string GymName { get; set; }
+    }
+}

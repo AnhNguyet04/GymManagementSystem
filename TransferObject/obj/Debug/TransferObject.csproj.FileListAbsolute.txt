@@ -1,0 +1,13 @@
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\bin\Debug\TransferObject.dll
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\bin\Debug\TransferObject.pdb
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\TransferObject\obj\Debug\TransferObject.csproj.AssemblyReference.cache
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\TransferObject\obj\Debug\TransferObject.csproj.CoreCompileInputs.cache
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\TransferObject\obj\Debug\TransferObject.dll
+D:\Tài liệu môn học\Lập trình cơ sở dữ liệu\GymManagement\TransferObject\obj\Debug\TransferObject.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\bin\Debug\TransferObject.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\bin\Debug\TransferObject.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\TransferObject\obj\Debug\TransferObject.csproj.AssemblyReference.cache
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\TransferObject\obj\Debug\TransferObject.csproj.CoreCompileInputs.cache
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\TransferObject\obj\Debug\TransferObject.dll
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\TransferObject\obj\Debug\TransferObject.pdb
+C:\Users\PC LENOVO\Downloads\LTCSDL\GymManagement\GymManagement\TransferObject\obj\Debug\Transfer.F5B4361A.Up2Date
